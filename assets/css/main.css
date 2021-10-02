@@ -27,9 +27,19 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
+img {
+    width: 460px;
+}
 
 .img_size {
-	weight: 200px;
+	display: inline;
+	position: relative;
+        float: left;
+        padding-right: 10px;
+}
+
+.inner {
+	display: inline-block;
 }
 
 body {
