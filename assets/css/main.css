@@ -29,6 +29,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 img {
     width: 460px;
+    display: block;
+    margin-bottom: 10px;
 }
 
 .img_size {
