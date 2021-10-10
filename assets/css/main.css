@@ -64,6 +64,10 @@ img {
     overflow: auto;
 }
 
+.text_shop {
+	margin: 10px;
+}
+
 body {
 	line-height: 1;
 }
