@@ -34,6 +34,10 @@ img {
     margin-left: 10px;
 }
 
+#modify_img {
+	    margin-top: 200px;
+}
+
 .img_size {
 	display: inline;
 	position: relative;
@@ -53,15 +57,7 @@ img {
 
 .p_size {
     width: 450px;
-}
-
-#joinPage {
-    color: #010101;
-    font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace !important;
-    width: 1100px;
-    height: 810px;
-    position: relative !important;
-    overflow: auto;
+	margin: 10px;
 }
 
 .text_shop {
